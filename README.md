@@ -22,6 +22,10 @@ const result = hilbertTransform(cos);
 // [0.015, 0.966, 1.058, 0.333, -0.367];
 ```
 
+<p align="center">
+  <img src="image/ht.png">
+</p>
+
 ## License
 
 [MIT](./LICENSE)
