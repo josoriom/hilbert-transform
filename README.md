@@ -32,7 +32,7 @@ const result = hilbertTransform(cos);
 
 [npm-image]: https://img.shields.io/npm/v/hilbert_transform.svg
 [npm-url]: https://www.npmjs.com/package/hilbert_transform
-[ci-image]: https://github.com/josoriom/hilbert_transform/workflows/Node.js%20CI/badge.svg?branch=main
+[ci-image]: https://github.com/josoriom/hilbert_transform/workflows/Node.js%20CI/badge.svg?branch=master
 [ci-url]: https://github.com/josoriom/hilbert_transform/actions?query=workflow%3A%22Node.js+CI%22
 [codecov-image]: https://img.shields.io/codecov/c/github/josoriom/hilbert_transform.svg
 [codecov-url]: https://codecov.io/gh/josoriom/hilbert_transform
