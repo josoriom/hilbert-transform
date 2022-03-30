@@ -5,13 +5,8 @@ describe('test hilbert transform of cos(t)', () => {
     const length = 50;
     const cos = new Array(length).fill(0).map((_, i) => Math.cos(i));
     const sin = new Array(length).fill(0).map((_, i) => Math.sin(i));
-
-    const cos2 = new Array(5).fill(0).map((_, i) => Math.cos(i));
-    console.log(hilbertTransform(cos2));
-
-    const result = [0.015, 0.966, 1.058, 0.333, -0.367];
-
     const trs = hilbertTransform(cos);
+
     expect(trs[5]).toBeCloseTo(sin[5], 1);
     expect(trs[10]).toBeCloseTo(sin[10], 1);
     expect(trs[11]).toBeCloseTo(sin[11], 1);
