@@ -1,4 +1,4 @@
-# hilbert_transform
+# hilbert-transform
 
 [![NPM version][npm-image]][npm-url]
 [![build status][ci-image]][ci-url]
@@ -32,9 +32,9 @@ const result = hilbertTransform(cos);
 
 [npm-image]: https://img.shields.io/npm/v/hilbert_transform.svg
 [npm-url]: https://www.npmjs.com/package/hilbert_transform
-[ci-image]: https://github.com/josoriom/hilbert_transform/workflows/Node.js%20CI/badge.svg?branch=master
-[ci-url]: https://github.com/josoriom/hilbert_transform/actions?query=workflow%3A%22Node.js+CI%22
-[codecov-image]: https://img.shields.io/codecov/c/github/josoriom/hilbert_transform.svg
-[codecov-url]: https://codecov.io/gh/josoriom/hilbert_transform
+[ci-image]: https://github.com/josoriom/hilbert-transform/workflows/Node.js%20CI/badge.svg?branch=master
+[ci-url]: https://github.com/josoriom/hilbert-transform/actions?query=workflow%3A%22Node.js+CI%22
+[codecov-image]: https://img.shields.io/codecov/c/github/josoriom/hilbert-transform.svg
+[codecov-url]: https://codecov.io/gh/josoriom/hilbert-transform
 [download-image]: https://img.shields.io/npm/dm/hilbert_transform.svg
 [download-url]: https://www.npmjs.com/package/hilbert_transform

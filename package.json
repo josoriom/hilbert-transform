@@ -30,12 +30,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/josoriom/hilbert_transform.git"
+    "url": "git+https://github.com/josoriom/hilbert-transform.git"
   },
   "bugs": {
-    "url": "https://github.com/josoriom/hilbert_transform/issues"
+    "url": "https://github.com/josoriom/hilbert-transform/issues"
   },
-  "homepage": "https://github.com/josoriom/hilbert_transform#readme",
+  "homepage": "https://github.com/josoriom/hilbert-transform#readme",
   "devDependencies": {
     "@types/jest": "^27.4.1",
     "eslint": "^8.12.0",
