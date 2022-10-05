@@ -1,6 +1,6 @@
 {
   "name": "hilbert_transform",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "transform",
   "main": "./lib/index.js",
   "module": "./lib-esm/index.js",
